@@ -1,0 +1,13 @@
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\obj\Debug\netcoreapp3.1\IListTargemGames.csprojAssemblyReference.cache
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\obj\Debug\netcoreapp3.1\IListTargemGames.AssemblyInfoInputs.cache
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\obj\Debug\netcoreapp3.1\IListTargemGames.AssemblyInfo.cs
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\obj\Debug\netcoreapp3.1\IListTargemGames.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\bin\Debug\netcoreapp3.1\IListTargemGames.exe
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\bin\Debug\netcoreapp3.1\IListTargemGames.deps.json
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\bin\Debug\netcoreapp3.1\IListTargemGames.runtimeconfig.json
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\bin\Debug\netcoreapp3.1\IListTargemGames.runtimeconfig.dev.json
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\bin\Debug\netcoreapp3.1\IListTargemGames.dll
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\bin\Debug\netcoreapp3.1\IListTargemGames.pdb
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\obj\Debug\netcoreapp3.1\IListTargemGames.dll
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\obj\Debug\netcoreapp3.1\IListTargemGames.pdb
+C:\Users\Aleksandr.DESKTOP-ADVG43P\source\repos\IListTargemGames\IListTargemGames\obj\Debug\netcoreapp3.1\IListTargemGames.genruntimeconfig.cache
